@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="design_dark_default_color_background" tools:override="true">#121212</color>
+    <color name="design_dark_default_color_error" tools:override="true">#CF6679</color>
+    <color name="design_dark_default_color_on_background" tools:override="true">#FFFFFF</color>
+    <color name="design_dark_default_color_on_error" tools:override="true">#000000</color>
+    <color name="design_dark_default_color_on_primary" tools:override="true">#000000</color>
+    <color name="design_dark_default_color_on_secondary" tools:override="true">#000000</color>
+    <color name="design_dark_default_color_on_surface" tools:override="true">#FFFFFF</color>
+    <color name="design_dark_default_color_primary" tools:override="true">#BB86FC</color>
+    <color name="design_dark_default_color_primary_dark" tools:override="true">#000000</color>
+    <color name="design_dark_default_color_primary_variant" tools:override="true">#3700B3</color>
+    <color name="design_dark_default_color_secondary" tools:override="true">#03DAC6</color>
+    <color name="design_dark_default_color_secondary_variant" tools:override="true">#03DAC6</color>
+    <color name="design_dark_default_color_surface" tools:override="true">#121212</color>
+    <color name="design_default_color_background">#FFFFFF</color>
+    <color name="design_default_color_error">#B00020</color>
+    <color name="design_default_color_on_background" tools:override="true">#000000</color>
+    <color name="design_default_color_on_error" tools:override="true">#FFFFFF</color>
+    <color name="design_default_color_on_primary">#FFFFFF</color>
+    <color name="design_default_color_on_secondary">#000000</color>
+    <color name="design_default_color_on_surface" tools:override="true">#000000</color>
+    <color name="design_default_color_primary">#6200EE</color>
+    <color name="design_default_color_primary_dark">#3700B3</color>
+    <color name="design_default_color_primary_variant">#3700B3</color>
+    <color name="design_default_color_secondary">#03DAC6</color>
+    <color name="design_default_color_secondary_variant">#018786</color>
+    <color name="design_default_color_surface">#FFFFFF</color>
+</resources>

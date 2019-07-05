@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#121212</item>
+        <item name="colorPrimaryDark">#121212</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorOnSurface">#888888</item>
+    </style>
+
+</resources>

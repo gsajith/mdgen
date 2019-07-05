@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_pill_size">18dp</dimen>
+    <dimen name="card_max_corner">24dp</dimen>
+    <dimen name="card_min_corner">2dp</dimen>
+    <dimen name="max_elevation">16dp</dimen>
+    <dimen name="min_elevation">2dp</dimen>
+    <dimen name="min_small_text_size">12sp</dimen>
+    <dimen name="max_small_text_size">16sp</dimen>
+    <dimen name="min_small_padding">16dp</dimen>
+    <dimen name="max_small_padding">36dp</dimen>
+    <dimen name="min_medium_padding">24dp</dimen>
+    <dimen name="max_medium_padding">48dp</dimen>
+    <dimen name="min_xsmall_padding">8dp</dimen>
+    <dimen name="max_xsmall_padding">24dp</dimen>
+    <dimen name="bab_rounded_corner_radius">8dp</dimen>
+</resources>
